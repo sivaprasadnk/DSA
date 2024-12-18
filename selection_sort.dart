@@ -2,7 +2,7 @@ void main() {
   var list = [5, 3, 9, 6, 3, 8, 4, 2, 1, 6, 3, 1, 9, 1];
   print("before sort :$list");
   selectionSort(list);
-  print("after sort :$list");
+  print("after sort :$list"); // [1, 1, 1, 2, 3, 3, 3, 4, 5, 6, 6, 8, 9, 9]
 }
 
 selectionSort(List a) {
