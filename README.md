@@ -30,16 +30,17 @@ Currently, the repository includes the following algorithms and problems:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/dsa-dart.git
+   git clone https://github.com/sivaprasadnk/DSA.git
    ```
-2. Navigate to the project directory:
-   ```sh
-   cd dsa-dart
-   ```
-3. Run a Dart file to test a specific algorithm:
+
+2. Run a Dart file to test a specific algorithm:
    ```sh
    dart run path/to/file.dart
    ```
+
+⭐ Support
+
+If you find this project helpful, please consider giving it a star ⭐ on GitHub. Your support is greatly appreciated!
 
 ## 📌 Contributing
 Feel free to contribute by adding more DSA solutions, optimizing existing ones, or improving documentation. Fork the repository and create a pull request with your changes!
